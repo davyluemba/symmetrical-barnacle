@@ -1,4 +1,4 @@
 # symmetrical-barnacle
-This project consists of building a dashboard of 3 sheets. The first one on a map shows the total of aircraft delay due to weather by State affected. I chose the map because of the geographical data to show. California has a total delay of 12763, Texas 23212.
+This project consists of building a dashboard of 3 sheets in Tableau. The first one on a map shows the total of aircraft delay due to weather by State affected. I chose the map because of the geographical data to show. California has a total delay of 12763, Texas 23212.
 The second sheet is the count of flights by Destination airport. Hartsfield-jackson Atlanta is on the top with 17 833, followed by Chicago O’hare International with 14789. The bar chart is appropriate for the audience to understand the proportion.
 The third sheet shows the sum of distance traveled by airlines companies. Southwest Airlines airplanes had traveled the longest distance of 43 873 973, followed by Delta Airlines with 35413978. The bar chart is appropriate for the audience to understand the proportion.
